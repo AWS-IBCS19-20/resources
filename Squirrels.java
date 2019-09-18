@@ -29,7 +29,7 @@ class Squirrels {
       e.printStackTrace();
     }
 
-    //calculate longest
+    //calculate length
     Double best = 0.0;
     Double worst = 10000.0;
     int b = 0;
